@@ -1,0 +1,3 @@
+[
+	{ "keys": ["command+alt+down"], "command": "duplicate_line" }
+]

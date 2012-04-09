@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+<strong>Terms/Privacy</strong>
+<p>All web site design, text, graphics, content and the arrangement thereof and all software, unless otherwise specified herein, are the copyrighted work of Company. All Rights Reserved.</p>
+
+<p>Permission is hereby granted to electronically copy and to print portions of this Web site for the sole purpose of placing an order to Company or use thereof as a resource, provided that appropriate copyright notices are contained therein. Software is made available for downloading solely for use the end users in strict accordance with the software's associated License Agreement. Any other use of the content of this Web site or any part thereof, or any reproduction or redistribution of the software not in accordance with the License Agreement, is expressly prohibited by law and may result in severe civil and criminal penalties. All violators will be prosecuted to the maximum extent possible.</p>
+
+<strong>Disclaimer</strong>
+<p>Company MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND WITH RESPECT TO THIS WEB SITE OR ANY OF THE CONTENTS CONTAINED THEREIN FOR WHATEVER PURPOSE. nvision SOLUTIONS HEREBY DISCLAIMS ALL SUCH REPRESENTATIONS AND WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, THE ACCURACY OR COMPLETENESS OF ANY INFORMATION ACCESSIBLE VIA THIS WEB SITE. IN NO EVENT SHALL Company BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, REGARDLESS OF THE CIRCUMSTANCES.</p>
+
+<p>THE DOCUMENTS AND RELATED GRAPHICS PUBLISHED IN THIS WEB SITE COULD INCLUDE TECHNICAL INACCURACIES OR TYPOGRAPHICAL ERRORS. CHANGES ARE PERIODICALLY ADDED TO THE INFORMATION HEREIN. PRICE AND AVAILABILITY INFORMATION IS SUBJECT TO CHANGE WITHOUT NOTICE AT ANY TIME.</p>
+
+<strong>Limited Liability</strong>
+<p>Except as specifically stated on this Web site, neither Company nor any of its management, employees or other representatives will be liable for any damages arising out of or in connection with the use of this Web site. This is a comprehensive limitation of liability that applies to all damages of any kind, including (without limitation) compensatory, direct, indirect or consequential damages, loss of data, loss of profit, loss or damage to property and claims of third parties, regardless of the circumstances.</p>
+
+<strong>Links to Third Party Sites</strong>
+<p>This Web site may contain hyperlinks to Web sites operated and owned by parties other than Company. Such hyperlinks are provided solely for your reference only and Company makes no representations or warranties with respect to such sites or the contents contained therein. Any hyperlinks to third party Web Sites does not imply any endorsement of the material contained therein or any association to the respective operators and owners of same.</p>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>terms</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
